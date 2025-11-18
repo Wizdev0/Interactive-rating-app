@@ -1,6 +1,6 @@
 const rateButtons = document.querySelectorAll(".rate");
 const submitBtn = document.querySelector(".sub-btn");
-const selectedText = document.querySelector(".thanks-p")
+const selectedText = document.querySelector(".thanks-p");
 const ratingState = document.querySelector(".first-card");
 const thankYouState = document.querySelector(".second-card");
 
